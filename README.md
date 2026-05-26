@@ -1,4 +1,4 @@
-# Trash Collector Robot
+# Automated Robot
 
 ## Final Stage
 <img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/a987cecd-9087-4547-a36e-0b4d0be53d7d" />
